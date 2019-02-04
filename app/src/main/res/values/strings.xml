@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eyic</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="access_token">pk.eyJ1IjoiYWthbmtzaGFzb29kIiwiYSI6ImNqcXRoYXRrdjA5b3c0OG81NXpvYjhuMWkifQ.Q0LgANRo2hPvtacHGYmkrA</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
